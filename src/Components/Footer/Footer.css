@@ -1,0 +1,35 @@
+.footer {
+    width: 100%;
+    position: relative;
+  }
+  
+  .image-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+  }
+  .footer-text {
+    position: absolute;
+    top: 130px; 
+    left: 30px; 
+    color: white;
+    white-space: nowrap; 
+    font-size: 16px; 
+    width: auto; 
+    overflow: hidden;
+  }
+  
+  .background-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .overlay-logo {
+    position: absolute;
+    top: 80px; 
+    left: 30px; 
+    width: 100px; 
+    height: auto;
+  }
+  
